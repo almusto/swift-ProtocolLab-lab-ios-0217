@@ -18,7 +18,7 @@
 		7DF33B3C1D58FF880071BA68 /* BankVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF33B3B1D58FF880071BA68 /* BankVault.swift */; };
 		7DF33B401D59067B0071BA68 /* BankVaultTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF33B3F1D59067B0071BA68 /* BankVaultTests.swift */; };
 		7DFFECE51D59145100FDFBEE /* Ships.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFFECE41D59145100FDFBEE /* Ships.swift */; };
-		7DFFECE71D5920A800FDFBEE /* ShipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFFECE61D5920A800FDFBEE /* ShipTests.swift */; };
+		AA7935911E5B6C8500526B7B /* ShipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFFECE61D5920A800FDFBEE /* ShipTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -371,7 +371,7 @@
 			files = (
 				7DF33B401D59067B0071BA68 /* BankVaultTests.swift in Sources */,
 				7DF33B311D58E1480071BA68 /* ProtocolsTests.swift in Sources */,
-				7DFFECE71D5920A800FDFBEE /* ShipTests.swift in Sources */,
+				AA7935911E5B6C8500526B7B /* ShipTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
